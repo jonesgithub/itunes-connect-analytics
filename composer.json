@@ -1,5 +1,5 @@
 {
-  "name": "icoder/itunes-connect",
+  "name": "icoder/itunes-connect-analytics",
   "description": "Fetching iTunes Connect statistics and analytics data",
   "license": "MIT",
   "authors": [
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-0": {
-      "icoder\\itunes-connect": "src/"
+      "icoder\\itunes-connect-analytics": "src/"
     }
   }
 }
