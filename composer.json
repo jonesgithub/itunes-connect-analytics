@@ -1,0 +1,19 @@
+{
+  "name": "icoder/itunes-connect",
+  "description": "Fetching iTunes Connect statistics and analytics data",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleg Dyachenko",
+      "email": "oleg.imcoder@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-0": {
+      "icoder\\itunes-connect": "src/"
+    }
+  }
+}
